@@ -1,0 +1,11 @@
+guru\springframework\controllers\CustomerController.class
+guru\springframework\SpringBootWebApplication.class
+guru\springframework\repositories\CustomerRepository.class
+guru\springframework\controllers\IndexController.class
+guru\springframework\domain\Customer.class
+guru\springframework\domain\Product.class
+guru\springframework\services\CustomerServiceImpl.class
+guru\springframework\domain\Document.class
+guru\springframework\services\CustomerService.class
+guru\springframework\bootstrap\Loader.class
+guru\springframework\configuration\SecurityConfiguration.class
