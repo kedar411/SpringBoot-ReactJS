@@ -17,7 +17,7 @@ public class Customer implements Serializable{
     @GeneratedValue(strategy = GenerationType.AUTO)
     Integer id;
     
-    @Column(name="name")	
+    @Column(name="nam222e")
     String name;
 
     @Column(name="type")	
