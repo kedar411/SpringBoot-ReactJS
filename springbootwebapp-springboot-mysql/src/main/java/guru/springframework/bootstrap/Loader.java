@@ -31,7 +31,7 @@ public class Loader implements ApplicationListener<ContextRefreshedEvent> {
         customerRepository.save(cust1);
         
         Customer cust2 = new Customer();
-        cust2.setName("Jason Roy");
+        cust2.setName("Jason Roey");
         cust2.setId(new Integer(002));
         cust2.setEmail("roy@lntinfotech.com");
         cust2.setType("HNI");
