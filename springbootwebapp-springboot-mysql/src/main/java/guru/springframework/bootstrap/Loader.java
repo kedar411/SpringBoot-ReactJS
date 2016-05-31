@@ -37,5 +37,12 @@ public class Loader implements ApplicationListener<ContextRefreshedEvent> {
         cust2.setType("HNI");
         customerRepository.save(cust2);
 
+        Customer cust2 = new Customer();
+        cust2.setName("Jawson Roy");
+        cust2.setId(new Integer(002));
+        cust2.setEmail("roy@lntwinfotech.com");
+        cust2.setType("HNI");
+        customerRepository.save(cust2);
+
     }
 }
