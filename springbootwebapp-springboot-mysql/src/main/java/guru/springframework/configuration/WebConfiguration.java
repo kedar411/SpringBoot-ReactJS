@@ -1,5 +1,5 @@
 package guru.springframework.configuration;
-/*
+
 import org.h2.server.web.WebServlet;
 import org.springframework.boot.context.embedded.ServletRegistrationBean;
 import org.springframework.context.annotation.Bean;
@@ -13,4 +13,4 @@ public class WebConfiguration {
         registrationBean.addUrlMappings("/console/*");
         return registrationBean;
     }
-}*/
+}
