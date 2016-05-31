@@ -23,7 +23,7 @@ public class Document implements Serializable{
     @Column(name="type")	
     String type;
 
-    @Column(name="subType")	
+    @Column(name="subsssType")
     String subType;
 
 	public Integer getId() {
